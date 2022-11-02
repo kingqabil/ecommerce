@@ -1,3 +1,17 @@
+ Fully Responsive modern Full stack E-commerce Application with payments
+
+
+## Built With
+
+- React
+- React Context API
+- Next js
+- Stripe
+- Sanity
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
